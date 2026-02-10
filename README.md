@@ -83,6 +83,4 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipto-dev-app&show_icons=true&locale=en&layout=compact" alt="shamim36" /></p>
-
 
