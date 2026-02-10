@@ -85,6 +85,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipto-dev-app&show_icons=true&locale=en&layout=compact" alt="shamim36" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipto-dev-app&show_icons=true&locale=en" alt="shamim36" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipto-dev-app&" alt="shamim36" /></p>
